@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+Im Luthfi Kurnia Hadi. I am as a Software Engineer
+- 🔭 I’m currently working on PT Sekawan Media Informatika in Malang, East Java 
+- 🌱 I’m currently learning TypeScript, NextJs, .NET
 <!--
 **LuthfiKurnia29/LuthfiKurnia29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
